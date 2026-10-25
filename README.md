@@ -14,3 +14,10 @@ An unbeatable Tic-Tac-Toe AI using the Minimax algorithm with Alpha-Beta Pruning
 
 **Features:** play as X against the AI, choose who goes first, replay option.
 
+## Task 4: Recommendation System
+A movie recommender using content-based filtering (TF-IDF + cosine similarity)
+and user-based collaborative filtering.
+
+**Install:** `pip install pandas scikit-learn`
+**Run:** `python Task4_Recommendation_System/recommender.py`
+
